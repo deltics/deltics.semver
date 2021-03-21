@@ -5,8 +5,8 @@ program test;
 
   uses
   Deltics.Smoketest,
-  Deltics.Semver in '..\src\Deltics.Semver.pas',
-  CustomAssertions in 'CustomAssertions.pas';
+  CustomAssertions in 'CustomAssertions.pas',
+  Deltics.SemVer in '..\src\Deltics.SemVer.pas';
 
 type
     Tests = class(TTest)

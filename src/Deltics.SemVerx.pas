@@ -20,6 +20,7 @@ interface
 
     TIdentifierType = (itInteger, itString);
 
+
     ISemVer = interface
     ['{FD69E6C7-19BD-4528-B5CF-9F371A4398D6}']
       function get_AsString: String;

@@ -1,5 +1,5 @@
 {
-  "id":"deltics.smever",
+  "id":"deltics.semver",
   "summary":"An implementation of a Semantic Version class with comparison rules that adhere to precedence rules of SemVer 2.0",
   "tags":[
     "deltics",
